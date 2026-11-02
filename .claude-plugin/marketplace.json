@@ -1,0 +1,16 @@
+{
+  "name": "scout",
+  "owner": {
+    "name": "koko1256"
+  },
+  "metadata": {
+    "description": "Context-engineering protocols for LLM agents"
+  },
+  "plugins": [
+    {
+      "name": "scout",
+      "source": "./",
+      "description": "fork→work→distill→return: delegate heavy work to scout subagents that inherit a distilled context log and return only structured reports, keeping raw material out of the main context"
+    }
+  ]
+}
