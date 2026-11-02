@@ -1,0 +1,15 @@
+{
+  "name": "scout",
+  "description": "fork→work→distill→return: delegate heavy work to scout subagents that inherit a distilled context log and return only structured reports, keeping raw material out of the main context",
+  "version": "0.1.0",
+  "author": {
+    "name": "koko"
+  },
+  "keywords": [
+    "context-engineering",
+    "subagent",
+    "context-management",
+    "distillation"
+  ],
+  "license": "MIT"
+}
